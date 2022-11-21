@@ -1,6 +1,9 @@
+package given_number_positive_or_negative;
 
 public class number_positive_or_negative {
+
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		int num=0
 				;
 		if(num>0){
@@ -10,8 +13,9 @@ public class number_positive_or_negative {
 			System.out.println("the number is negative");
 	}
 		else {
-			System.out.println("the number i zero");
+			System.out.println("the number is zero");
 		}
 
-}
+	}
+
 }
